@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
+{
+
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+            <!-- Icon -->
+            <div class="fadeIn first">
+                <!--<img src="~/Content/loginIcon.jpg" id="icon" style="width: 9%" />-->
+                <p>Register</p>
+                <p>When you create new account, log in.</p>
+            </div>
+            <!-- Register Form -->
+            <form>
+
+                <p>
+                    <input type="text" id="username" placeholder="username" name="name" />
+                    <input type="password" placeholder="password" name="password" />
+                    <input type="submit" value="Register">
+                </p>
+
+                @*<button>@Html.ActionLink("Log In", "LoginUser", "Login", new { name = , password = password }, new { @class = "navbar-brand" })</button>*@
+            </form>
+        </div>
+    </div>
+}
+
+
+

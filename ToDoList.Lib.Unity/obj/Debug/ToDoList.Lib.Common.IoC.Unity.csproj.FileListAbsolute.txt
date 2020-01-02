@@ -1,0 +1,75 @@
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Abstractions.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Container.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Abstractions.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Container.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.csprojAssemblyReference.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.IoC.Unity.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.IoC.Unity.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\CommonServiceLocator.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.RegistrationByConvention.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.ServiceLocation.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\CommonServiceLocator.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Configuration.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.Configuration.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.IoC.Unity.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.IoC.Unity.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\CommonServiceLocator.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Abstractions.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Container.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Configuration.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Container.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\log4net.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\bin\Debug\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Unity\obj\Debug\ToDoList.Lib.Common.IoC.Unity.pdb

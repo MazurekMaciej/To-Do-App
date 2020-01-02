@@ -1,0 +1,35 @@
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csprojAssemblyReference.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csproj.CoreCompileInputs.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csprojAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Common\obj\Debug\ToDoList.Lib.Common.pdb

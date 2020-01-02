@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@if(Request.IsAuthenticated)
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("Home", "Index", "Home")
+        </li>
+    </ul>
+}
+else
+{
+
+    using (Html.BeginForm("LoginUser", "Account", FormMethod.Post))
+    {
+
+
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+            <!-- Icon -->
+            <div class="fadeIn first">
+                <img src="~/Content/loginIcon.jpg" id="icon" style="width: 9%" />
+                <p>Login</p>
+            </div>
+            <!-- Login Form -->
+            <form>
+
+                <p>
+                    <input type="text" id="username" placeholder="username" name="name" />
+                    <input type="password" placeholder="password" name="password" />
+                    <input type="submit" value="Log In">
+                </p>
+
+                @*<button>@Html.ActionLink("Log In", "LoginUser", "Login", new { name = , password = password }, new { @class = "navbar-brand" })</button>*@
+            </form>
+        </div>       
+        
+        <!-- Register button-->
+        
+        <div id="formFooter">
+            <a class="underlineHover" href="@Url.Action("RegisterView", "Account")">If you don't have an account. Register</a>
+        </div>
+        
+    </div>
+    }
+}
+

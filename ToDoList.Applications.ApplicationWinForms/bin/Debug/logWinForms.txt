@@ -1,0 +1,162 @@
+2020-01-02 14:56:42,639 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process started
+2020-01-02 14:56:52,372 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - User with provided username found
+2020-01-02 14:56:52,377 ERROR ToDoList.Lib.Business.Managers.SecurityManager - Invalid password
+2020-01-02 14:56:57,432 DEBUG ToDoList.Lib.Common.ISecurityManager - Login process started
+2020-01-02 14:56:57,449 DEBUG ToDoList.Lib.Common.ISecurityManager - User with provided username found
+2020-01-02 14:56:57,455 INFO ToDoList.Lib.Common.ISecurityManager - Provided credentials are valid 
+2020-01-02 14:56:57,517 INFO ToDoList.Lib.Common.ISecurityManager - User sucsesfully logged in: 1 test pwd
+2020-01-02 14:56:57,544 DEBUG ToDoList.Lib.Common.ISecurityManager - Login process ended successfully
+2020-01-02 14:57:00,541 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:00,640 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 14:57:00,947 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:00,953 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:01,022 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:01,050 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:02,030 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:02,036 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:02,079 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:02,084 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:07,809 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:07,815 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:07,846 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:08,086 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:08,092 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:08,131 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:08,137 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:15,900 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:15,960 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:15,989 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:16,033 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:16,054 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:16,095 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:16,116 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:20,379 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:20,384 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:20,411 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:20,453 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:20,459 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:20,501 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:20,510 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:40,590 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:40,648 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:40,681 INFO ToDoList.Lib.Common.ITaskListManager - Task List added
+2020-01-02 14:57:40,687 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:40,704 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 14:57:40,710 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 1002 saturday
+2020-01-02 14:57:40,741 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:40,747 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:40,792 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:40,798 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:57:41,425 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:41,431 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:57:41,473 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:57:41,479 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 14:58:11,748 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:58:11,755 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:58:11,785 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:58:11,826 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:58:11,832 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 14:58:11,870 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 14:58:11,876 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:01:58,201 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process started
+2020-01-02 15:02:00,751 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - User with provided username found
+2020-01-02 15:02:00,761 INFO ToDoList.Lib.Business.Managers.SecurityManager - Provided credentials are valid 
+2020-01-02 15:02:00,801 INFO ToDoList.Lib.Business.Managers.SecurityManager - User sucsesfully logged in: 1 test pwd
+2020-01-02 15:02:00,811 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process ended successfully
+2020-01-02 15:03:03,950 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:04,040 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 15:03:04,050 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 1002 saturday
+2020-01-02 15:03:04,300 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:04,310 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:03:04,380 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:04,380 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:03:08,823 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:08,830 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:03:08,880 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:08,880 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:03:09,173 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:09,180 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:03:09,220 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:03:09,220 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:06:33,969 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:06:33,975 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:06:34,019 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:06:34,025 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:06:34,315 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:06:34,325 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:06:34,366 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:06:34,375 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:10:07,228 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process started
+2020-01-02 15:10:09,858 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - User with provided username found
+2020-01-02 15:10:09,858 INFO ToDoList.Lib.Business.Managers.SecurityManager - Provided credentials are valid 
+2020-01-02 15:10:09,912 INFO ToDoList.Lib.Business.Managers.SecurityManager - User sucsesfully logged in: 1 test pwd
+2020-01-02 15:10:09,918 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process ended successfully
+2020-01-02 15:10:12,928 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:13,032 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 15:10:13,038 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 1002 saturday
+2020-01-02 15:10:13,302 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:13,308 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:10:13,378 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:13,378 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:10:15,328 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:15,338 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:10:15,378 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:15,388 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:10:31,208 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:31,217 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:10:31,248 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:31,488 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:31,498 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:10:31,538 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:31,538 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:10:33,797 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:33,797 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:10:33,847 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:10:33,847 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:37:05,413 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process started
+2020-01-02 15:37:16,599 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - User with provided username found
+2020-01-02 15:37:16,599 INFO ToDoList.Lib.Business.Managers.SecurityManager - Provided credentials are valid 
+2020-01-02 15:37:16,659 INFO ToDoList.Lib.Business.Managers.SecurityManager - User sucsesfully logged in: 1 test pwd
+2020-01-02 15:37:16,659 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process ended successfully
+2020-01-02 15:37:20,219 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:20,319 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 15:37:20,319 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 1002 saturday
+2020-01-02 15:37:20,579 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:20,589 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:37:20,663 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:20,669 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:37:21,264 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:21,269 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:37:21,309 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:21,319 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:37:31,208 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:31,219 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:37:31,272 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:31,279 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 15:37:31,322 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:31,329 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 15:37:31,379 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 15:37:31,389 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 16:26:50,459 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process started
+2020-01-02 16:26:58,446 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - User with provided username found
+2020-01-02 16:26:58,455 INFO ToDoList.Lib.Business.Managers.SecurityManager - Provided credentials are valid 
+2020-01-02 16:26:58,505 INFO ToDoList.Lib.Business.Managers.SecurityManager - User sucsesfully logged in: 1 test pwd
+2020-01-02 16:26:58,512 DEBUG ToDoList.Lib.Business.Managers.SecurityManager - Login process ended successfully
+2020-01-02 16:27:41,820 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:41,939 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 3 friddday
+2020-01-02 16:27:41,946 INFO ToDoList.Lib.Common.ITaskListManager - Task List displayed successfully 1002 saturday
+2020-01-02 16:27:42,219 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:42,225 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 16:27:42,297 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:42,305 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 16:27:42,952 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:42,959 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 16:27:43,002 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:43,009 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List
+2020-01-02 16:27:57,124 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:57,131 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 16:27:57,163 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:57,401 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:57,408 INFO ToDoList.Lib.Common.ITaskListManager - Task List returned succesfully
+2020-01-02 16:27:57,448 DEBUG ToDoList.Lib.Common.ISecurityManager - Returning logged user id
+2020-01-02 16:27:57,454 INFO ToDoList.Lib.Common.ITaskListManager - Listing Tasks in Task List

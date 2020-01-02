@@ -1,0 +1,104 @@
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csprojAssemblyReference.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.exe
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csprojAssemblyReference.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Abstractions.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Container.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\CommonServiceLocator.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.RegistrationByConvention.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.ServiceLocation.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\CommonServiceLocator.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.Configuration.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\CommonServiceLocator.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Abstractions.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Container.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\log4net.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\bin\Debug\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.pdb

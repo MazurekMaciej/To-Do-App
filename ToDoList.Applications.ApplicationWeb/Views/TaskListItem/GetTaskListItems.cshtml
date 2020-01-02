@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ToDoList.Lib.Common.DomainModel.TaskListItem>
+
+@{
+    ViewBag.Title = "Task List Items";
+}
+
+<h4>Tasks in @ViewBag.TaskListName</h4>
+<h5 style="font-style: italic">@TempData["ConfirmationMessage"]</h5>
+
+<p>
+    @Html.ActionLink("Create New", "CreateTaskListItemView")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Text)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsCompleted)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsCompleted)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "EditTaskListItem", new { id = item.Id }) |
+                <!---@Html.ActionLink("Details", "Details", new { id = item.Id }) |-->
+                @Html.ActionLink("Delete", "DeleteTaskListItem", new { id = item.Id })
+            </td>
+        </tr>
+
+    }
+
+</table>
+<div>
+    @Html.ActionLink("Back to List", "GetTaskLists", "TaskList", new { currentPageIndex = 1 }, null)
+</div>
+

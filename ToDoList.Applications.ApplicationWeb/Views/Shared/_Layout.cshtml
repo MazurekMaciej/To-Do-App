@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/CustomStyle.css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    
+    @if (Session["Logged"] != null)
+    {
+        <div class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <div class="container">
+                <div class="navbar-header">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <h1 class="navbar-brand">Hello!</h1>
+                        </li>
+
+                        @*<li>@Html.ActionLink("Show Task Lists", "GetTaskLists", "TaskList", new { area = "" }, new { @class = "navbar-brand" })</li>*@
+                        <li>@Html.ActionLink("Log out", "LogOut", "Account", new { area = "" }, new { @class = "navbar-brand" })</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <div class="container">
+                <div class="navbar-header">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Log in", "Index", "Account", new { area = "" }, new { @class = "navbar-brand" })</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+    <div class="container body-content">
+        <header style="margin-top: 25px">
+            <h3>ToDo Application</h3>
+        </header>
+        @RenderBody()
+        <hr />
+        <footer class="footer">
+            <p>&copy; @DateTime.Now.Year - ToDo Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

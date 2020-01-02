@@ -1,0 +1,59 @@
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csprojAssemblyReference.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.CoreCompileInputs.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.CopyComplete
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.ToDoAppDBv1.resources
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.GenerateResource.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.user_model_changes.resources
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csprojAssemblyReference.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.ToDoAppDBv1.resources
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.user_model_changes.resources
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.GenerateResource.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\bin\Debug\log4net.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.ToDoAppDBv1.resources
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.Migrations.user_model_changes.resources
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.GenerateResource.Cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Data\obj\Debug\ToDoList.Lib.Data.pdb

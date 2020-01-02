@@ -1,0 +1,12 @@
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.exe
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Applications.Console.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.csprojAssemblyReference.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.csproj.CoreCompileInputs.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.csproj.CopyComplete
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.exe
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Applications.Console\obj\Debug\ToDoList.Applications.Console.pdb

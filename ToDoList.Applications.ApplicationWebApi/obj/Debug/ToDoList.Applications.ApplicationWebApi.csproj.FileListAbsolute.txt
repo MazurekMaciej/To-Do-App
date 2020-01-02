@@ -1,0 +1,244 @@
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.exe.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.rsp
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.exe.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.rsp
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.AppContext.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Console.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Compression.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Claims.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.ValueTuple.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.exe.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.rsp
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\VBCSCompiler.exe
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Antlr3.Runtime.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.SqlServer.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Newtonsoft.Json.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Net.Http.Formatting.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Helpers.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.WebHost.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Mvc.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Optimization.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Razor.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Razor.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\WebGrease.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.SqlServer.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Newtonsoft.Json.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Net.Http.Formatting.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Helpers.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.WebHost.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Mvc.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Optimization.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Razor.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Razor.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Antlr3.Runtime.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.csprojAssemblyReference.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Abstractions.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Container.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.WebApi.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.IoC.Unity.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.IoC.Unity.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\WebActivatorEx.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\CommonServiceLocator.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.Configuration.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.RegistrationByConvention.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.ServiceLocation.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\CommonServiceLocator.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.Configuration.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.RegistrationByConvention.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.ServiceLocation.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\UnityLog4NetExtension.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Cors.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.Cors.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Applications.ApplicationWebApi.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.exe.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csc.rsp
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.exe.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\csi.rsp
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Console.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\vbc.rsp
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\CommonServiceLocator.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Cors.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Helpers.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Mvc.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Optimization.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Razor.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.IoC.Unity.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Abstractions.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Container.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.ServiceLocation.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.WebApi.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\UnityLog4NetExtension.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\WebActivatorEx.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\WebGrease.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Business.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Common.IoC.Unity.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\CommonServiceLocator.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\log4net.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Helpers.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Mvc.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Optimization.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.Razor.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.Interception.Configuration.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Unity.ServiceLocation.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\ToDoList.Lib.Data.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\bin\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Applications.ApplicationWebApi\obj\Debug\ToDoList.Applications.ApplicationWebApi.pdb

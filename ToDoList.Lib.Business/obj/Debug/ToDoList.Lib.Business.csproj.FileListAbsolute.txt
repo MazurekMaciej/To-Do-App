@@ -1,0 +1,63 @@
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csprojAssemblyReference.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csproj.CoreCompileInputs.cache
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csproj.CopyComplete
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.pdb
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.dll
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maciej.mazurek\source\repos\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.xml
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csprojAssemblyReference.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csproj.CoreCompileInputs.cache
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csproj.CopyComplete
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.pdb
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\dev\cp\coded\INTERNAL\Skills\ToDoList\maciejm\ToDoListApp\ToDoList.Lib.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Business.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Common.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.pdb
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\ToDoList.Lib.Data.dll.config
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\log4net.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csprojResolveAssemblyReference.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.csproj.CoreCompileInputs.cache
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.dll
+C:\Users\Davie\Desktop\projekty work\ToDoListApp\ToDoList.Lib.Business\obj\Debug\ToDoList.Lib.Business.pdb
