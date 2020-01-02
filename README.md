@@ -1,5 +1,5 @@
 # To-Do-App
-To-Do app repository which contains <b>Console Application, WinForms application, Web API and Web MVC applications.</b>
+To-Do app repository which contains <b>Console Application, WinForms application, Web API and Web MVC applications with Dependency Injection and Logger.</b>
 
 Some of the frameworks used in repository: <b>ASP.NET, Entity Framework, Unity, log4net</b>
 
